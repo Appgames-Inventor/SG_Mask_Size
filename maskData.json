@@ -1,0 +1,23 @@
+[
+    {
+        "Mask Name": "MaskPure",
+        "Start Date": "22-Jan-2022",
+        "Start Time": "10:00 am",
+        "End Date": "23-Jan-2022",
+        "End Time": "11:59 pm",
+        "Website": "https://stayprepared.sg/staymasked/reusable/maskpure/",
+        "Size": 
+        [
+            {
+                "Type": "Medium",
+                "Start": 110999,
+                "End": 120
+            },
+            {
+                "Type": "Large",
+                "Start": 121,
+                "End": 140
+            }
+        ]
+    }
+]
